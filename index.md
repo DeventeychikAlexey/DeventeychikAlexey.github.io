@@ -1,8 +1,6 @@
-# Alex Deventeychik
-
 ## Angular Developer, 4+ years experience
 
-**GitHub** | **LinkedIn** | **Telegram** | deventeychikalexeyjob@gmail.com | +84397545064 | GMT +7
+**[GitHub](https://github.com/DeventeychikAlexey)** | **[LinkedIn](https://www.linkedin.com/in/alexey-deventeychik-016660258/)** | **[Telegram](https://t.me/leeeyix)** | [deventeychikalexeyjob@gmail.com](mailto:deventeychikalexeyjob@gmail.com)  | [+84397545064](tel:+84397545064) | GMT +7
 
 ---
 
@@ -21,7 +19,7 @@ Angular 8-17, RxJs, TypeScript, JavaScript, HTML, CSS, SCSS, SASS, Material UI, 
 
 ## EXPERIENCE
 
-### **Knowledge Space | B2B low code platform** 
+### **[Knowledge Space](https://im.systems/) | B2B low code platform** 
 **March 2024 - Present**
 
 **Achievements:**
@@ -34,7 +32,7 @@ Angular 8-17, RxJs, TypeScript, JavaScript, HTML, CSS, SCSS, SASS, Material UI, 
 - Modified the default print of web pages based on client requests, improving the platform's quality.
 - Configured and supported localization, thereby expanding the funnel of incoming customers.
 
-### **IQVIA | B2B Healthcare**
+### **[IQVIA](https://www.iqvia.com/) | B2B Healthcare**
 **November 2020 – March 2024 (3 years 5 months)**
 
 **Achievements:**
