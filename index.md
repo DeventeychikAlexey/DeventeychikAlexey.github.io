@@ -49,17 +49,12 @@ Angular 8-17, RxJs, TypeScript, JavaScript, HTML, CSS, SCSS, SASS, Material UI, 
 ## EDUCATION
 
 **Belarusian State University of Informatics and Radio Electronics**
-
 **Bachelor’s degree**  
+
 Minsk, Belarus  
 **September 2018 – March 2022**
 
 ---
 
 ## HOBBIES
-
-- Actively mentored new colleagues.
-- Participated in customer demos.
-- Developed pet projects as a full-stack developer.
-- Implemented AI in my work.
-- Read books like _"Clean Architecture"_ by Robert Cecil Martin and _"Scrum"_ by Jeff Sutherland.
+Actively mentored new colleagues. Participated in customer demos. Developed pet projects as a full-stack developer. Implemented AI in my work. Read books like _"Clean Architecture"_ by Robert Cecil Martin and _"Scrum"_ by Jeff Sutherland.
