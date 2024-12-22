@@ -1,7 +1,7 @@
 # Alex Deventeychik
 *Angular Developer | 4+ years experience*  
 
-[GitHub](https://github.com/DeventeychikAlexey) | [LinkedIn](https://www.linkedin.com/in/alexey-deventeychik-016660258/) | [Telegram](https://t.me/leeeyix) | [deventeychikalexeyjob@gmail.com](mailto:deventeychikalexeyjob@gmail.com) | +84397545064 | GMT +7
+[GitHub](https://github.com/DeventeychikAlexey) | [LinkedIn](https://www.linkedin.com/in/alexey-deventeychik/) | [Telegram](https://t.me/leeeyix) | [deventeychikalexeyjob@gmail.com](mailto:deventeychikalexeyjob@gmail.com) | +84397545064 | GMT +7
 
 ---
 
